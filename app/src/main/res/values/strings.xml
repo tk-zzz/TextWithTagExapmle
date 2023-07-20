@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextWithTagExample</string>
+<!--    <string name="tagged_text_2">&lt;a href="https://google.com">Google&lt;/a>へようこそ！！！！！</string>-->
+    <string name="tagged_text"><a href="https://google.com">Google</a>へようこそ！！！！！</string>
+</resources>
